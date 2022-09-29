@@ -1,0 +1,15 @@
+/Users/rabiazehraunal/Desktop/pratikler/odev1/bin/Debug/net6.0/odev1
+/Users/rabiazehraunal/Desktop/pratikler/odev1/bin/Debug/net6.0/odev1.deps.json
+/Users/rabiazehraunal/Desktop/pratikler/odev1/bin/Debug/net6.0/odev1.runtimeconfig.json
+/Users/rabiazehraunal/Desktop/pratikler/odev1/bin/Debug/net6.0/odev1.dll
+/Users/rabiazehraunal/Desktop/pratikler/odev1/bin/Debug/net6.0/odev1.pdb
+/Users/rabiazehraunal/Desktop/pratikler/odev1/obj/Debug/net6.0/odev1.csproj.AssemblyReference.cache
+/Users/rabiazehraunal/Desktop/pratikler/odev1/obj/Debug/net6.0/odev1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rabiazehraunal/Desktop/pratikler/odev1/obj/Debug/net6.0/odev1.AssemblyInfoInputs.cache
+/Users/rabiazehraunal/Desktop/pratikler/odev1/obj/Debug/net6.0/odev1.AssemblyInfo.cs
+/Users/rabiazehraunal/Desktop/pratikler/odev1/obj/Debug/net6.0/odev1.csproj.CoreCompileInputs.cache
+/Users/rabiazehraunal/Desktop/pratikler/odev1/obj/Debug/net6.0/odev1.dll
+/Users/rabiazehraunal/Desktop/pratikler/odev1/obj/Debug/net6.0/refint/odev1.dll
+/Users/rabiazehraunal/Desktop/pratikler/odev1/obj/Debug/net6.0/odev1.pdb
+/Users/rabiazehraunal/Desktop/pratikler/odev1/obj/Debug/net6.0/odev1.genruntimeconfig.cache
+/Users/rabiazehraunal/Desktop/pratikler/odev1/obj/Debug/net6.0/ref/odev1.dll
